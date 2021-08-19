@@ -1,16 +1,34 @@
-### Hi there 👋
-<!--
-**anilalanofc/anilalanofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anıl 
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on something really cool (Coming Soon) 😉
+- 🌱 I’m currently learning Vue, Flutter and PHP 🤣
+- 💬 Ask me anything [here](https://www.xn--anlalan-sfb.com/) related to <b>Wordpress, Java, C, C#, HTML, CSS, PHP </b>
+- 📫 How to reach me: [@anilalanofc][linkedin] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
--->
+
+
+
+### 📕 Latest Blog posts:
+
+- [Sizce Yapay Zeka Nereye Gidiyor?](https://www.anılalan.com/sizce-yapay-zeka-nereye-gidiyor/)
+- [WordPress Şifreyi Veritabanı Üzerinden Değiştirme](https://yazilimcin.com/d/9-wordpress-sifreyi-veritabani-uzerinden-degistirme)
+
+```javascript
+const anilalanofc = {
+  code: [Php, C, HTML, CSS, C#, Python, Java, Flutter],
+  projects: ["infreza", "yazilimcin", "coming soon"],
+  currently: "I work on my dream project."]
+}
+```
+
+### 📊 GitHub Stats:
+![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=anilalanofc&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
+
+
+[website]: http://www.xn--anlalan-sfb.com
+[linkedin]: https://linkedin.com/in/anlalan
+[instagram]: https://www.instagram.com/desweep/
+[twitter]: https://twitter.com/anilalanyz
+[github]: https://github.com/anilalanofc
+[discord]: https://discord.com/invite/dd9j4z8YgP
