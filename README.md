@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently working on something really cool (Coming Soon) 😉
 - 🌱 I’m currently learning Vue, Flutter and PHP 🤣
-- 💬 Ask me anything [here](https://www.xn--anlalan-sfb.com/) related to <b>Wordpress, Java, C, C#, HTML, CSS, PHP </b>
+- 💬 Ask me anything [here](https://www.instagram.com/desweep/) related to <b>Wordpress, Java, C, C#, HTML, CSS, PHP </b>
 - 📫 How to reach me: [@anilalanofc][linkedin] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
 
 
