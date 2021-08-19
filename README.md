@@ -6,13 +6,6 @@
 - 📫 How to reach me: [@anilalanofc][linkedin] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
 
 
-
-
-### 📕 Latest Blog posts:
-
-- [Sizce Yapay Zeka Nereye Gidiyor?](https://www.anılalan.com/sizce-yapay-zeka-nereye-gidiyor/)
-- [WordPress Şifreyi Veritabanı Üzerinden Değiştirme](https://yazilimcin.com/d/9-wordpress-sifreyi-veritabani-uzerinden-degistirme)
-
 ```javascript
 const anilalanofc = {
   code: [Php, C, HTML, CSS, C#, Python, Java, Flutter],
@@ -20,6 +13,14 @@ const anilalanofc = {
   currently: "I work on my dream project."]
 }
 ```
+
+
+### 📕 Latest Blog posts:
+
+- [Sizce Yapay Zeka Nereye Gidiyor?](https://www.anılalan.com/sizce-yapay-zeka-nereye-gidiyor/)
+- [WordPress Şifreyi Veritabanı Üzerinden Değiştirme](https://yazilimcin.com/d/9-wordpress-sifreyi-veritabani-uzerinden-degistirme)
+
+
 
 ### 📊 GitHub Stats:
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=anilalanofc&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
