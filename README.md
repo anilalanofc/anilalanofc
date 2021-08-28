@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently working on something really cool (Coming Soon) 😉
 - 🌱 I’m currently learning Vue, Flutter and PHP 🤣
 - 💬 Ask me anything [here](https://www.instagram.com/desweep/) related to <b>Wordpress, Java, C, C#, HTML, CSS, PHP </b>
-- 📫 How to reach me: [@anilalanofc][linkedin] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
+- 📫 How to reach me: [@desweep][instagram] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
 
 
 ```javascript
@@ -33,3 +33,4 @@ const anilalanofc = {
 [twitter]: https://twitter.com/anilalanyz
 [github]: https://github.com/anilalanofc
 [discord]: https://discord.com/invite/dd9j4z8YgP
+[mail]: mailto:anilalanofc@gmail.com
