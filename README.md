@@ -1,14 +1,14 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anıl 
 
 - 👨‍💻 I’m currently working on something really cool (Coming Soon) 😉
-- 🌱 I’m currently learning Vue, Flutter and PHP 🤣
+- 🌱 I’m currently learning Js, React, React Native, Node.js and PHP 🤣
 - 💬 Ask me anything [here](https://www.instagram.com/desweep/) related to <b>Wordpress, Java, C, C#, HTML, CSS, PHP </b>
 - 📫 How to reach me: [@desweep][instagram] or say 👋 on Email at [Anıl ALAN](mailto:anilalanofc@gmail.com)
 
 
 ```javascript
 const anilalanofc = {
-  code: [Php, C, HTML, CSS, C#, Python, Java, Flutter],
+  code: [Php, C, HTML, CSS, C#, Python, Java, JavaScript],
   projects: ["infreza", "yazilimcin", "coming soon"],
   currently: "I work on my dream project."]
 }
